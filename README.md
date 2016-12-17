@@ -15,3 +15,8 @@ Content/SphericalCapture を Content 以下にコピーしてください。
 
 BluePrint で下例のように呼び出しを行ってください。
 ![saveHDR](https://raw.githubusercontent.com/sandinist/SphericalCaptureUE4/master/Images/Call.png)
+
+こちらでも解説しています: http://qiita.com/sandinist/items/b54090586f5575ea62eb
+
+# Contact
+[@sandinist](https://twitter.com/sandinist) までどうぞ
