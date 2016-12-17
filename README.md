@@ -1,6 +1,9 @@
 # Spherical Capture UE4
 UE4.13 以上で動作する、全天球イメージを撮影するサンプルです。
 
+# Example
+MotionControllerMap に組み込んだ例があります。MotionControllerPawn のカメラ位置でキャプチャを行います。
+
 # How to Use
 Content/SphericalCapture を Content 以下にコピーしてください。
 
